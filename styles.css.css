@@ -1,0 +1,106 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.container{
+	width: 80%
+	overflow:hidden;
+	margin: auto;
+}
+
+a{
+	text-decoration: none;
+}
+
+header{
+	background-color: #4267B2;
+	color: #fff;
+}
+
+header h1{
+	float: left;
+}
+
+.right{
+
+}
+
+.right table{
+margin: 10px 0px;
+}
+
+.right td{
+	padding-left: 8px;
+}
+
+.right a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.right td a button{
+background-color: #365899;
+color: #fff;
+padding: 3px 8px;
+text-decoration: none;
+border: 1px solid:#fff;
+margin-left: 8px ; 
+}
+
+section{
+	background-color: #E9EBEE;
+	background-size: cover;
+}
+
+section.connect{
+	font-weight: bold;
+	word-spacing: 0.2cm;
+	float: left;
+}
+
+section.create{
+	float: right;
+	width: 40%;
+}
+
+.create h1{
+	font-size: 35px;
+
+}
+
+.create input{
+	height: 30pc;
+	border-radius: 5px;
+	border: transparent;
+	padding: 3px;
+}
+
+.create .set{
+width: 80%;
+margin-top: 5%;
+}
+
+.create.bg{
+	height: auto;
+}
+
+.create button{
+	padding: 8px 40px;
+	background-color: #5D9149;
+	color: #fff;
+	border: none;
+}
+
+label{
+	display: block;
+	padding: 0.7rem 0;
+	font-weight: bold;
+	color: #808080;
+}
+
+
+
+
+
