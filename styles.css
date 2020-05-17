@@ -25,6 +25,7 @@ header{
 
 header h1{
 	float: left;
+	font-family: sans-serif;
 }
 
 header table{
@@ -32,11 +33,12 @@ float: right;
 }
 
 .right{
-
+float: right;
 }
 
 .right table{
 margin: 10px 0px;
+	
 }
 
 .right td{
