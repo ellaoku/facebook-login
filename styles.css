@@ -4,11 +4,7 @@ body{
 	font-family: sans-serif;
 }
 
-.container{
-	width: 80%
-		overflow:hidden;
-	margin: auto;
-}
+
 
 a{
 	text-decoration: none;
@@ -19,9 +15,6 @@ header{
 	color: #fff;
 }
 
-header{
-
-}
 
 header h1{
 	float: left;
