@@ -27,6 +27,10 @@ header h1{
 	float: left;
 }
 
+header table{
+float: right;
+}
+
 .right{
 
 }
