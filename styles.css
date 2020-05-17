@@ -6,7 +6,7 @@ body{
 
 .container{
 	width: 80%
-	overflow:hidden;
+		overflow:hidden;
 	margin: auto;
 }
 
@@ -17,6 +17,10 @@ a{
 header{
 	background-color: #4267B2;
 	color: #fff;
+}
+
+header{
+
 }
 
 header h1{
@@ -33,6 +37,7 @@ margin: 10px 0px;
 
 .right td{
 	padding-left: 8px;
+	float: left;
 }
 
 .right a{
